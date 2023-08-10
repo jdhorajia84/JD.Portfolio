@@ -1,19 +1,19 @@
 **Final Portfolio Project Jasmin D.**
 <hr/>
-This Project was created for a class final project:<br/>
+This Project was created for a class final project: <br/>
 Some of the test that have pasted:<br/>
-![ALT](./images/tests.jpg.ext).<br/>
+
+![Alt text](tests.jpg)<br/>
 <hr/>
 Some Website Report:<br/>
 homePage:<br/>
-![ALT](./images/homepage.jpg.ext).<br/>
+
+![Alt text](homepage.jpg)<br/>
 MailChimp Report:<br/>
-![ALT](./images/MailChimp%20report.jpg.ext).<br/>
+![Alt text](<MailChimp report.jpg>)<br/>
 Google Analytics:<br/>
-![ALT](./images/google%20analytics.jpg.ext). <br/>
-More in the presentation link
-
-
+![Alt text](<google analytics.jpg>)<br/>
+More in the presentation link.<br/>
 <hr/>
 
 Link to WebPage: https://jdhorajia84.github.io/final-portfolio.github.io/
