@@ -16,7 +16,7 @@ Google Analytics:<br/>
 More in the presentation link.<br/>
 <hr/>
 
-Link to WebPage: https://jdhorajia84.github.io/final-portfolio.github.io/
+Link to WebPage: https://jdhorajia84.github.io/JD.Portfolio/
 <br/> <br>
 Link to Figma Page: https://www.figma.com/file/qpyXDpuZbS9kHZB6xaxqKg/Portfolio-JD.?type=design&node-id=0%3A1&mode=design&t=xVQVC9qJDkLNs46G-1
 <br/> <br/>
