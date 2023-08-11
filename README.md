@@ -20,4 +20,4 @@ Link to WebPage: https://jdhorajia84.github.io/final-portfolio.github.io/
 <br/> <br>
 Link to Figma Page: https://www.figma.com/file/qpyXDpuZbS9kHZB6xaxqKg/Portfolio-JD.?type=design&node-id=0%3A1&mode=design&t=xVQVC9qJDkLNs46G-1
 <br/> <br/>
-Link to Video Presentation: 
+Link to Video Presentation: https://clipchamp.com/watch/RlJ14PEbAIq
